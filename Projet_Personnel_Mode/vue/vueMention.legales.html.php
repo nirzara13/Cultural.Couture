@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en" data-bs-theme="auto">
-  <head><script src="assets/js/color-modes.js"></script>
+  <head><script src="../assets/js/color-modes.js"></script>
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -15,13 +15,11 @@
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/blog/">
 
-    <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/carousel/">
-
     
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3">
 
-<link href="assets/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <style>
       .bd-placeholder-img {
@@ -100,21 +98,6 @@
       .bd-mode-toggle .dropdown-menu .active .bi {
         display: block !important;
       }
-
-
-      .bouton-marge {
-      margin-bottom: 15px;
-      /* Vous pouvez ajuster la valeur selon l'espace souhaité */
-    }
-
-    main {
-      flex: 1;
-      /* Fait en sorte que le contenu de la page prenne tout l'espace disponible */
-      padding: 30px;
-    }
-
-
-
 
       .logo-title {
   font-size: 28px;
@@ -235,7 +218,7 @@
 
   <main>
 
-  <div id="myCarousel" class="carousel slide mb-6" data-bs-ride="carousel">
+    <div id="myCarousel" class="carousel slide mb-6" data-bs-ride="carousel">
       <div class="carousel-indicators">
         <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true"
           aria-label="Slide 1"></button>
@@ -247,7 +230,7 @@
           <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg"
             aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false">
             <rect width="100%" height="100%" fill="var(--bs-secondary-color)" />
-            <image href="Paris1img.jpg" width="100%" height="142%" alt="Photo de la Tour Eiffel la nuit à Paris" />
+            <image href="../photos/Danza-chacarera-argentine.jpg" width="100%" height="142%" alt="Photo de la Tour Eiffel la nuit à Paris" />
           </svg>
           <div class="container">
             <div class="carousel-caption text-start">
@@ -261,7 +244,7 @@
           <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg"
             aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false">
             <rect width="100%" height="100%" fill="var(--bs-secondary-color)" />
-            <image href="rue.color.jpg" width="100%" height="134%" alt="La rue Crémieux" />
+            <image href="../photos/rue.color.jpg" width="100%" height="134%" alt="La rue Crémieux" />
           </svg>
 
           <div class="container">
@@ -294,8 +277,8 @@
         <span class="visually-hidden">Next</span>
       </button>
       <br>
-</main>
-    
+      
+    </div>
   <!-- Marketing messaging and featurettes
   ================================================== -->
   <!-- Wrap the rest of the page in another container to center all the content. -->
@@ -312,8 +295,9 @@
         <p class="lead"></p>
       </div>
       <div class="col-md-5">
-    <img src="photos/manhattan_usa.jpg" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" alt="Description de votre image">
-</div>
+        <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="var(--bs-secondary-bg)"/><text x="50%" y="50%" fill="var(--bs-secondary-color)" dy=".3em">500x500</text></svg>
+      </div>
+    </div>
 
 
 
@@ -326,9 +310,8 @@
         <p class="lead">Another featurette? Of course. More placeholder content here to give you an idea of how this layout would work with some actual real-world content in place.</p>
       </div>
       <div class="col-md-5 order-md-1">
-      <img src="photos/broderie_mexique.jpg" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" alt="Description de votre image">
-</div>
-
+        <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 400x400" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="var(--bs-secondary-bg)"/><text x="50%" y="50%" fill="var(--bs-secondary-color)" dy=".3em">500x500</text></svg>
+      </div>
     </div>
 
     <hr class="featurette-divider">
@@ -387,8 +370,6 @@
         <a href="chemin/vers/votre/politique_de_confidentialite">Politique de confidentialité</a> <!-- Lien vers la politique de confidentialité -->
     </p>
 </footer>
-
-<script src="assets/dist/js/bootstrap.bundle.min.js"></script>
+<script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
     </body>
-
 </html>
