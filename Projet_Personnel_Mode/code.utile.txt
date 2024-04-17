@@ -1,0 +1,31 @@
+<?php
+
+
+try {
+    $conn = new PDO("mysql:host=$serveur;dbname=$bd", $login, $mdp, array(PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES \'UTF8\'')); 
+    $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+    return $conn;
+} catch (PDOException $e) {
+    $e->getMessage;
+}
+
+?>
+
+
+
+
+<?php
+if (isset($_POST['bouton'])){
+    $nom = $_POST['nom'];
+    $prenom = $_POST['prenom'];
+    $mailU = $_POST['mailU'];
+    $mdpU = $_POST['mdpU'];
+
+}
+
+
+$req = $connexion->prepare("INSER INTO utilisateurs (nom, prenom, mailU, mdpU) VALUES (?,?,?,?)");
+$req = ->execute(array($nom,$prenom,$maiU,$mdpU));
+
+
+?>
