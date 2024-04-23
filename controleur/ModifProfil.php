@@ -15,7 +15,7 @@ if (isLoggedOn()) {
     $email = getemailLoggedOn();
     $util = getUtilisateurByemail($email);
 
-        // traitement si necessaire des donnees recuperees
+        // traitement si nécessaire des données récupérées
 
 
         if (isset($_POST["nom"])){
@@ -43,7 +43,7 @@ if (isLoggedOn()) {
     }
 
 
-    // appel du script de vue qui permet de gerer l'affichage des donnees
+    // appel du script de vue qui permet de gérer l'affichage des données
     $titre = "Mon profil";
     include "$racine/vue/vueModifierProfil.php";
 }
