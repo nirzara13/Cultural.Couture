@@ -17,7 +17,7 @@ else
     
     login($email,$motDePasse);
 
-    if (isLoggedOn()){ // si l'utilisateur est connecté on redirige vers la vue afrique
+    if (isLoggedOn()){ // si l'utilisateur est connecté on redirige vers la vue Amérique du Nord
         include "$racine/vue/vueAmerique_du_Nord.html.php";
     }
     else{
