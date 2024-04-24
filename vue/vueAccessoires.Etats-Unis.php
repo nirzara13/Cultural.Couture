@@ -271,8 +271,8 @@
     </div>
 
     <div class="column">
-      <img class="thumbnail" src="../photos/Cow_Boy_Etats_Unis.jpg" alt="Un homme portant un chapeau de cow boy , une chemise et un jean">
-      <h5>Tenue de Cow Boy</h5>
+      <img class="thumbnail" src="../photos/Boucle_Ceinture_etats_unis.jpg" alt="Une boucle de ceinture américaine">
+      <h5>Boucle de ceinture</h5>
       <p> </p>
     <a href="#" class="button expanded custom-button" aria-label="Ajouter cette page aux favoris">Ajouter aux favoris</a>
     </div>
