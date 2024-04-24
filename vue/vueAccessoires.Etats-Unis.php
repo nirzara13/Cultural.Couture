@@ -264,31 +264,31 @@
 <br>
 <div class="row small-up-2 large-up-4">
     <div class="column">
-      <img class="thumbnail" src="../photos/Chapeau_de_cow_Boy_etats_unis.webp">
+      <img class="thumbnail" src="../photos/Chapeau_de_cow_Boy_etats_unis.webp" alt="Un chapeau de cow boy en beige">
       <h5>Chapeau de Cow Boy</h5>
       <p></p>
-    <a href="#" class="button expanded custom-button">Ajouter aux favoris</a>
+    <a href="#" class="button expanded custom-button" aria-label="Ajouter cette page aux favoris">Ajouter aux favoris</a>
     </div>
 
     <div class="column">
-      <img class="thumbnail" src="../photos/Boucle_Ceinture_Western_Etats_Unis.jpg">
-      <h5>Boucle de ceinture Western</h5>
+      <img class="thumbnail" src="../photos/Cow_Boy_Etats_Unis.jpg" alt="Un homme portant un chapeau de cow boy , une chemise et un jean">
+      <h5>Tenue de Cow Boy</h5>
       <p> </p>
-    <a href="#" class="button expanded custom-button">Ajouter aux favoris</a>
+    <a href="#" class="button expanded custom-button" aria-label="Ajouter cette page aux favoris">Ajouter aux favoris</a>
     </div>
 
     <div class="column">
-      <img class="thumbnail" src="../photos/Lunettes_Aviateur_Etats_Unis.jpg">
+      <img class="thumbnail" src="../photos/Lunettes_Aviateur_Etats_Unis.jpg" alt="Des lunettes de soleil aviateur">
       <h5>Lunettes de soleil aviateur</h5>
       <p> </p>
-    <a href="#" class="button expanded custom-button">Ajouter aux favoris</a>
+    <a href="#" class="button expanded custom-button"aria-label="Ajouter cette page aux favoris">Ajouter aux favoris</a>
     </div>
 
     <div class="column">
-      <img class="thumbnail" src="../photos/Bandana_Etats_Unis.jpg">
+      <img class="thumbnail" src="../photos/Bandana_Etats_Unis.jpg" alt="Une femme portant un bandana coloré ">
       <h5>Bandana</h5>
       <p> </p>
-    <a href="#" class="button expanded custom-button">Ajouter aux favoris</a>
+    <a href="#" class="button expanded custom-button" aria-label="Ajouter cette page aux favoris">Ajouter aux favoris</a>
     </div>
   </div>
 
