@@ -10,12 +10,12 @@ include_once "$racine/modele/bd.utilisateur.inc.php";
 // init messages 
 $messageMdp = "";
 
-// recuperation des donnees GET, POST, et SESSION
+// récuperation des données GET, POST, et SESSION
 if (isLoggedOn()) {
     $email = getemailLoggedOn();
     $util = getUtilisateurByemail($email);
 
-        // traitement si nécessaire des données récupérées
+        // traitement des données récupérées si nécessaire
 
 
         if (isset($_POST["nom"])){
