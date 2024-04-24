@@ -25,7 +25,7 @@ if (isset($_POST["nom"]) && isset($_POST["prenom"]) && isset($_POST["email"])&& 
         }
     }
  else {
-    $msg="Renseigner tous les champs...";    
+    $msg="Renseigner tous les champs";    
     }
 }
 
@@ -42,7 +42,7 @@ if ($inscrit) {
         $titre = "Erreur d'inscription";
         include "$racine/vue/vueErreur.php";
     } else {
-        // L'utilisa     afficher le formulaire d'inscription
+        //affichage du formulaire d'inscription
         $titre = "Inscription pb";
         include "$racine/vue/vueInscription.php";
     }
