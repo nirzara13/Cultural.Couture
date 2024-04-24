@@ -101,8 +101,8 @@
 
       .logo-title {
   font-size: 28px;
-  font-family: 'Times New Roman', sans-serif; /* Choisissez votre police préférée */
-}
+  font-family: 'Times New Roman', sans-serif; 
+  }
 
 .link-white {
     color: white;
@@ -187,13 +187,18 @@
 
     <a href="./?action=defaut">
     <img src="../photos/Logo_Cultural_Couture.png" alt="Logo" class="logo-medium" width="100" height="auto"tabindex="0">
+    
     </a>
+    
 </div>
 
 <br>
-      <div class="col text-start">
-        <a class="blog-header-logo text-body-emphasis text-decoration-none logo-title" href="#" aria-label="Cultural Couture">Cultural Couture</a>
-      </div>
+<div class="col text-start">
+    <a class="blog-header-logo text-body-emphasis text-decoration-none logo-title" href="#" aria-label="Cultural Couture">Cultural Couture</a>
+    <br>
+    <br>
+    <a href="./?action=defaut" class="btn btn-primary">Accueil</a>
+</div>
 
       <div class="col d-flex justify-content-end">
         <form action="recherche.php" method="GET" class="d-flex me-3">
@@ -229,81 +234,39 @@
 
 <main class="container">
 
-        <h1>Introduction au site</h1>
-        <p>Les conditions générales d'utilisation informent tout les utilisateurs et les visiteurs de ce site des
-            services proposés, de la relation entre les utilisateurs et les responsables du site, des droits et
-            responsabilités applicables à l'utilisation du site.</p>
-        <h3>1-Un site consultatif</h3>
-        <p>Le site est destiné à la diffusion de l’information sur la ville de Paris tel que les services, les plats
-            traditionnels préférés des habitants ou encore sur les monuments historiques de la ville. Sur l’ensemble du
-            Site, hors page spécifique, Cultural Couture est seule à éditer du contenu, considéré comme toute
-            information, élément, texte, vidéo, photo, image, infographie constituant le site.</p>
-        <h2>Confidentialité et protection des données</h2>
+        <h2><strong>Informations sur le site</strong></h2>
         <br>
-        <h3>2-1-Les données à caractère personnel</h3>
-        <p>Les données recueillies proviennent :</p>
-        <p>- de la communication de l'adresse electronique lors d'une inscription</p>
-        <p>- du remplissage d'un formulaire;</p>
-        
-        <p>Ces informations ne seront communiqués que par l'acceptation de l'utilisateur.</p>
-        <br>
-        <h3>2-2 Protection des données personnelles</h3>
-        <br>
-        <p>Conformément au règlement UE/2016 du 27 avril 2016 sur la protection des données à caractère personnel et à la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, les visiteurs ou contributeurs, personnes physiques, ont le droit de consulter, de corriger et de supprimer leurs données.
-
-<p>Pour exercer ces droits, les utilisateurs peuvent adresser une demande par courrier à :
-
-<p>Délégué à la Protection des Données Personnelles
-
-<p>Cultural Couture, 69 rue Turbigo, 75003 Paris
-
-<p>En cas de non-respect de ces droits, les utilisateurs peuvent déposer une réclamation auprès de l’autorité de contrôle de la protection des données personnelles : Commission Nationale de l’Informatique et des Libertés (CNIL), 3 Place de Fontenoy, TSA 80715, 75334 PARIS CEDEX 07.
-
-
-
-
-
-
-        <h2>Les Propriétés intellectuelles</h2>
-        <p>Les contenus de ce site sont protégés par le droit d’auteur, et toute reproduction est soumise à l’accord de Culture Couture en vertu de l'article L.122-4 du Code de la Propriété Intellectuelle.</p>
        
-       
-            <p>Cependant, l'article L.122-5 du même code stipule que lorsque l'œuvre a été divulguée, l'auteur ne peut interdire la diffusion, même intégrale, à des fins d'information d'actualité, des discours prononcés dans des assemblées politiques, ainsi que dans des réunions publiques ou des cérémonies officielles.</p>
-        <p>
-        Certains contenus de ce site peuvent être assortis de conditions particulières, telles que la mention de la source ou la reproduction de logos. Il est impératif de les respecter le cas échéant. Toutefois, la technique de lien profond est interdite : les pages de ce site ne doivent pas être intégrées à l'intérieur des pages d'un autre site.</p>
-        
-        <p>Les photos présentes sur Culture Couture proviennent de diverses sources. Seuls les détenteurs des droits mentionnés dans la rubrique "Crédits" sont autorisés à en permettre la reproduction. L'absence de crédit ne signifie pas l'autorisation d'utilisation des médias publiés.</p>
-        
-        <h2>Responsabilités</h2>
-        <br>
-        <h3>3-1 Accès et utilisation des services interactifs du site</h3>
-        <p>Culture Couture ne peut être tenue responsable de tout dommage résultant d'une interruption, d'un dysfonctionnement, d'une suspension ou de la cessation du site, quelle qu'en soit la raison, ou de tout dommage matériel ou immatériel découlant de la connexion au site. L'utilisateur se connecte au site sous sa propre responsabilité.</p>
-       
-        <br>
-        <h3>3-2-L'édition du site</h3>
-        <p>Tous les contenus sont produits par Culture Couture, qui en est propriétaire. Pour toute réclamation concernant le contenu du site, veuillez contacter les responsables du site à l'adresse suivante:
-            69 rue Turbigo
-            75003 PARIS</p>
-            <br>
-        <h2>Modification des conditions générales d'utilisation</h2>
-        <p>Culture Couture se réserve le droit de modifier et de mettre à jour les présentes Conditions Générales d'Utilisation à tout moment et sans préavis afin notamment de les adapter aux évolutions du site.</p>
-        <br>
-        <h2>Loi applicable et attribution de juridiction</h2>
-        <p>Les présentes Conditions Générales d'Utilisation sont régies par la loi française. En consultant le site, l'utilisateur accepte de donner compétence exclusive aux juridictions françaises du ressort de la cour d’appel de Paris.</p>
-        <h2>Les dispositions d'utilisation</h2>
+        <p>Le site Internet www.culturalcouture.com (ci-après le « Site ») 
+          est édité par : la société Cultural , SAS au capital de 6 072 000 euros, dont le siège social est
+         situé 69, rue turbigo 75003 Paris et immatriculée au Registre du Commerce et des Sociétés de Paris sous le n°421 197 005 (ci-après « la Société »).</p>
+
+<p>La Société peut être contactée par email à l’adresse suivante : nirzara.barua0103@gmail.com ou par téléphone au numéro suivant : 01.44.55.60.00 </p>
+
+<p>Le Directeur de la publication est : BARUA Nirzara </p>
+
+<p>Le Site est hébergé par l'entreprise <a href="https://awsacademy.instructure.com">Amazon AWSAcademy </a>.</p>
+
+<p>La Société est immatriculée au registre d’Atout France sous le numéro n°IM075120225.</p>
+
+
+<p>La Société a souscrit un contrat d’assurance responsabilité civile générale auprès de la compagnie MMA ENTREPRISE, située 19-21 avenue de l’Europe à Clichy. </p>
+
+
+
        <br>
-        <h3>4-Accès aux serices</h3>
-        <p>Le service de Culture Couture est accessible à toute personne majeure désireuse de s'inscrire et de contribuer au contenu du site. Les personnes physiques agissant au nom d'une entité doivent avoir l'autorité nécessaire pour représenter ladite entité et acceptent, par leur utilisation du service, les termes des présentes Conditions Générales d’Utilisation.</p>
-        <h2>L'équipe de Cultural Couture</h2>
-        <p>Ce site à été créé par :</p>
+       <br>
+        
+        <h4><strong>L'équipe de Cultural Couture</strong></h4>
+        <p>Ce site a été créé par :</p>
         <p><strong>- Nirzara BARUA </strong></p>
         
 
-</main>
+
 </main>
 
 
-<footer class="py-5 text-center text-body-secondary bg-dark">
+<footer class="py-5 text-center text-body-secondary bg-dark" aria-label="Pied de page">
     <div class="copyright-text py-3 text-white bg-dark text-center"><strong>
         © 2024 Cultural Couture. Tous droits réservés. 
         <br>
