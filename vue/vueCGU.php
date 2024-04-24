@@ -103,6 +103,11 @@
   font-size: 28px;
   font-family: 'Times New Roman', sans-serif; /* Choisissez votre police préférée */
 }
+
+
+.link-white {
+    color: white;
+}
     </style>
 
     <!-- Custom styles for this template -->
@@ -188,9 +193,12 @@
 
 
 <br>
-      <div class="col text-start">
-        <a class="blog-header-logo text-body-emphasis text-decoration-none logo-title" href="#" aria-label="Cultural Couture">Cultural Couture</a>
-      </div>
+<div class="col text-start">
+    <a class="blog-header-logo text-body-emphasis text-decoration-none logo-title" href="#" aria-label="Cultural Couture">Cultural Couture</a>
+    <br>
+    <br>
+    <a href="./?action=defaut" class="btn btn-primary">Accueil</a>
+</div>
 
       <div class="col d-flex justify-content-end">
         <form action="recherche.php" method="GET" class="d-flex me-3">
@@ -224,59 +232,123 @@
   </nav>
 </div>
 
+<br>
+<br>
 <main class="container">
-<h2>Introduction</h2>
+<h4><strong>Les Conditions Générales d'Utilisation sont à jour au 20 avril 2024</strong></h4>
 
 <p> Bienvenue sur Cultural Couture. L'utilisation de ce site implique l'acceptation des conditions générales d'utilisation décrites ci-dessous. Veuillez les lire attentivement avant de vous inscrire ou d'utiliser nos services.   </p>
 
 <p>
-    <span class="site">www.culturalcouture.fr</span> est édité par la société <strong>Cultural</strong>, propriété de Nirzara Barua
+Notre plateforme, <strong>Cultural Couture</strong>, offre une expérience immersive dans la richesse culturelle du monde entier. Nous proposons une sélection minutieuse de tenues traditionnelles et d'accessoires iconiques de divers pays et continents, permettant aux visiteurs de découvrir et d'explorer la diversité vestimentaire de manière authentique et captivante.
+</p>
+
+<h4><strong>Les Mentions légales </strong></h4>
+  
+<p>Le site Internet www.culturalcouture.com (ci-après le « Site ») 
+          est édité par : la société Cultural , SAS au capital de 6 072 000 euros, dont le siège social est
+         situé 69, rue turbigo 75003 Paris et immatriculée au Registre du Commerce et des Sociétés de Paris sous le n°421 197 005 (ci-après « la Société »).</p>
+
+<p>La Société peut être contactée par email à l’adresse suivante : nirzara.barua0103@gmail.com ou par téléphone au numéro suivant : 01.44.55.60.00 </p>
+
+<p>Le Directeur de la publication est : BARUA Nirzara </p>
+
+<p>Le Site est hébergé par l'entreprise <a href="https://awsacademy.instructure.com">Amazon AWSAcademy </a>.</p>
+
+<p>La Société est immatriculée au registre d’Atout France sous le numéro n°IM075120225.</p>
+
+
+<p>La Société a souscrit un contrat d’assurance responsabilité civile générale auprès de la compagnie MMA ENTREPRISE, située 19-21 avenue de l’Europe à Clichy. </p>
+
+<br>
+<h4><strong>Acceptation des conditions d'utilisation</strong></h4>
+
+<p>
+Le présent document a pour objet de définir les modalités et conditions (ci-après « Conditions Générales d’Utilisation » ou « CGU ») dans lesquelles la Société met à la disposition des utilisateurs (ci-après les « Utilisateurs »), la possibilité de naviguer et d’utiliser le Site.
 </p>
 
 <p>
-    Siège social : 69 rue turbigo, 75003 Paris<br />
-    Directeur de la publication <span>Nirzara Barua</span>
-</p>
-<p>
-    Responsable technique application : <span>Nirzara Barua</span><br />
-    Responsable technique hebergement : <span>Ewen Prigent</span><br />
-    Contact administratif du site : <span>Christophe Fontaine</span>
+L’utilisation du Site implique l’adhésion pleine, entière et sans réserve aux présentes CGU.
 </p>
 
-<section id="content">
-
-<h2 id="accpt">1. Accès au Site (<abbr title="conditions générales d'utilisation">CGU</abbr>)</h2>
-
-<p>Cultural Couture est un site destiné uniquement aux utilisateurs authentifiés. L'accès à certaines pages spécifiques contenant des tenues et accessoires des différents pays est réservé aux utilisateurs authentifiés.</p>
-
-
-<p>En cas de manquement aux <abbr title="conditions générales d'utilisation">CGU</abbr> la société Cultural se réserve le droit de suspendre ou supprimer un compte utilisateur.</p>
-
-</section>
+<p>La Société se réserve le droit de modifier à tout moment les présentes CGU et d’en informer les Utilisateurs par tous moyens. Ces modifications entrent en vigueur dès leur mise en ligne sur le Site. L’Utilisateur est invité à s’informer sur de telles modifications. Si l’Utilisateur n’accepte pas ces modifications, il est invité à ne pas utiliser le Site. </p>
 
 <br>
-<section id="content">
+<h4><strong> Utilisation du site </strong>  </h4>
 
-
-<h2>3. Inscription et Authentification</h2>
-<p>L'inscription sur Cultural Couture nécessite la création d'un compte utilisateur. Vous êtes responsable de la confidentialité de vos informations d'identification. Vous acceptez de ne pas partager vos identifiants avec des tiers.</p>
-<br>
-<h2>4. Contenu Utilisateur</h2>
-<p>En utilisant Cultural Couture, vous acceptez de respecter les droits d'auteur et les droits de propriété intellectuelle. Tout contenu soumis par les utilisateurs reste leur propriété, mais en le publiant sur notre plateforme, vous accordez à Cultural Couture une licence mondiale, non exclusive et libre de droits pour utiliser, reproduire, modifier, adapter, publier et distribuer ce contenu.</p>
-<br>
-<br>
-<h2>5. Protection des Données</h2>
-<p>Cultural Couture s'engage à protéger vos données personnelles conformément à notre politique de confidentialité. Nous ne partagerons pas vos informations avec des tiers sans votre consentement.</p>
+<p>Avant toute utilisation du Site, l’Utilisateur doit s’assurer qu’il dispose des moyens techniques et informatiques lui permettant de naviguer et d’utiliser le Site. Il doit également s’assurer que la configuration informatique de son matériel/équipement est en bon état de fonctionnement et ne contient pas de virus. </p>
 
 <br>
-<h2>6. Modification des CGU</h2>
-<p>Nous nous réservons le droit de modifier ces Conditions Générales d'Utilisation à tout moment. Les utilisateurs seront informés de toute modification importante par le biais de notifications sur le site ou par e-mail.</p>
 <br>
-<h2>7. Suspension ou Suppression de Compte</h2>
-<p>En cas de non-respect des présentes CGU, Cultural Couture se réserve le droit de suspendre ou de supprimer votre compte utilisateur sans préavis.</p>
+<h4><strong> Le site ne peut être utilisé que par les personnes âgées de dix huit ans et plus. Si une personne de moins de dix huit ans souhaite utiliser le site, elle devra avoir l'accord exprès des son representant légal.</strong> </h4>
+
+
+<p>La Société se réserve le droit de modifier, réviser, supprimer, valider ou changer, intégralement ou en partie, tout contenu (« Contenu ») figurant sur le Site ou affiché sur celui-ci. </p>
+
+<p> La Société peut supprimer, changer ou modifier le Site et/ou les Contenus à tout moment et sans préavis. </p>
+
 <br>
-<h2>8. Contact</h2>
-<p>Si vous avez des questions concernant ces Conditions Générales d'Utilisation, veuillez nous contacter à l'adresse suivante : nirara.barua0102@gmail.com</p>
+
+<h4><strong> Obligations de l'utilisateur</strong></h4>
+
+<p> En utilisant le Site, les Utilisateurs conviennent :
+<br>- de s'inscrire et de se connecter afin d'accéder aux pages spécifiques des tenues et accessoires de pays.
+<br> - de s’abstenir d’utiliser le Site de manière illégale, pour toute finalité illégale ou de manière incompatible avec les présentes CGU ;
+<br>-    de ne pas utiliser le Site pour la publication de propos injurieux, diffamants, harcelants, diffamatoires, obscènes ou menaçants, et/ou portant atteinte à la vie privée d’autrui ; 
+<br> -  de respecter les autres Utilisateurs ; 
+<br> -  de ne pas collecter et stocker des données personnelles afférentes aux autres Utilisateurs, à toutes fins ;
+<br> -    de ne pas diffuser de contenus qui pourraient être constitutifs d'incitation à la réalisation de crimes ou délits ; de provocation à la discrimination, à la haine raciale, et plus généralement qui pourraient être contraires aux lois et règlements en vigueur, aux présentes règles d'utilisation et aux bonnes mœurs et à l’ordre public ;
+<br> -    de ne pas diffuser d'informations d'ordre idéologique, religieux, politique ou de revendication ethnique ;
+<br> -    de ne pas afficher, transmettre par email ou de toute autre manière tout élément violant tout brevet, marque déposée, secret de fabrication, droit de propriété intellectuelle ou tout autre droit de propriété appartenant à autrui ;
+<br>-    de ne pas afficher, transmettre par email ou de toute autre manière une publicité ou tout matériel promotionnel non sollicité ou non autorisé (notamment se livrer à du « spam », ou toute autre forme de sollicitation) ;
+<br>-    de ne pas utiliser le Site à des fins abusives en y introduisant volontairement des virus ou tout autre programme malveillant et de tenter d’accéder de manière non autorisée au Site ;
+<br>-    de ne pas dénigrer le Site et/ou la Société et/ou les autres Utilisateurs sur les réseaux sociaux ou tout autre moyen de communication.  </p>
+
+<p> Si, pour un quelconque motif, la Société considère que les Utilisateurs ne respectent pas les présentes CGU, elle peut à tout moment, et à son entière discrétion, supprimer leur accès au Site et prendre toutes mesures incluant toute action judiciaire à leur encontre.</p>
+
+<br>
+
+<h4><strong>Exacititude et licéité des informations</strong> </h4>
+
+<p>  Chaque Utilisateur s’engage à ce que toutes les informations, notamment celles le concernant, qu’il fournit soient adéquates, exactes, à jour et complètes. Pour ce faire, il s’engage à les mettre à jour régulièrement. </p>
+
+
+<p> L’Utilisateur reconnaît que la Société ne dispose pas des moyens matériels de vérifier la véracité de toutes les informations présentes sur le Site. La Société ne peut donc être tenue pour responsable en cas d'usurpation d'identité, ou du fait que les informations mentionnées soient fausses ou mensongères.</p>
+
+<p> La Société ne garantit pas non plus l'opportunité, la licéité, la probité ou la qualité des informations transmises par les Utilisateurs.</p>
+<p> La Société ne pourra en aucun cas être tenue pour responsable des contenus que les Utilisateurs communiquent et mettent en ligne, notamment de leur caractère illégal au regard de la réglementation en vigueur, d'erreur ou d'omission, de toute perte ou dommage consécutifs à leur utilisation, transmission par la messagerie interne ou de toute autre manière via le Site.</p>
+
+<br>
+<h4><strong> Données personnelles </strong></h4>
+
+<p>Les dispositions concernant la protection des données personnelles telles qu’issues de la Loi Informatique et Libertés en date du 6 janvier 1978 telle que modifiée et du Règlement européen sur la protection des données personnelles du 27 avril 2016 entré en vigueur le 25 mai 2018 (« RGPD ») sont situées dans un document annexe intitulé « Politique de Confidentialité » accessible sur le Site. </p>
+
+<br>
+<h4><strong>Propriété intellectuelle</strong></h4>
+
+<p>En accédant au Site, les Utilisateurs reconnaissent expressément que le Site et les Contenus créés par la Société et mis à la disposition des Utilisateurs sont la propriété exclusive de la Société et sont protégés par le Code de la propriété intellectuelle français ainsi que par les traités et accords internationaux applicables relatifs à la protection des droits de propriété intellectuelle. A ce titre, ils ne peuvent être reproduits sans autorisation expresse de la Société sous peine de poursuites judiciaires civiles et pénales. </p>
+
+<p>La Société est seule titulaire de tous les droits, titres et intérêts portant sur le Site et les Contenus, y compris tous droits de propriété intellectuelle incluant, notamment, tous droits relatifs aux droits d’auteur, droits des dessins et modèles, marques, enseignes, noms commerciaux, dénomination sociale, noms de domaine, technologie, savoir-faire, procédés, formules, codes sources et codes exécutables, données et droits similaires, y compris les informations relatives à toute demande, tout enregistrement ou tout renouvellement de ceux-ci qui pourront être protégés par les lois, règlements ou règles en matière de propriété intellectuelle de tout pays. </p>
+
+<p>L’extraction systématique et répétée des informations et Contenus figurant sur le Site est strictement interdite et sanctionnée au titre du droit de la propriété intellectuelle et du droit sui generis des bases de données. Toute extraction illicite pourra engager la responsabilité civile et pénale de son auteur. </p>
+
+<p> « CULTURAL COUTURE » et tous autres marques et logos de la Société sont des marques protégées par le droit de la propriété intellectuelle français (ci-après collectivement dénommées les « Marques »). Sauf autorisation écrite et expresse de la Société, l’Utilisateur s’engage à ne pas utiliser ou diffuser de quelque manière que ce soit les Marques. </p>
+
+
+<br>
+
+<h4><strong> Responsabilité </strong></h4>
+
+<p>La Société décline toute responsabilité pour tout dommage résultant d’une intrusion frauduleuse d’un tiers, en dehors de son contrôle, ayant entraîné une modification ou altération des informations/Contenus figurant sur le Site ou ayant porté préjudice à tout Utilisateur du présent Site ; et plus généralement pour tout dommage, quelles qu’en soient les causes, origines, nature ou conséquences, provoqué à raison de l’accès de quiconque au Site ou de l’impossibilité d’y accéder, en dehors de son contrôle. </p>
+
+<p>La Société ne peut en aucun cas être tenue pour responsable des problèmes ou défaillances techniques liés aux réseaux de téléphonie, aux systèmes informatiques en ligne, aux serveurs, aux fournisseurs d'Internet, à l'équipement informatique et/ou aux logiciels des Utilisateurs. </p>
+
+<br>
+<h4><strong> Droit applicable et juridiction compétente </strong></h4>
+
+<p> Les présentes CGU sont régies et interprétées conformément au droit français, sans tenir compte des principes de conflits de lois.
+
+
 
 <br>
 <br>
@@ -309,8 +381,33 @@
     </table>
 </div>
 
-</div>
+<hr>
 
+<h4><strong>Contact</strong></h4>
+<p>Si vous avez des questions concernant ces Conditions Générales d'Utilisation, veuillez nous contacter à l'adresse suivante : <strong>nirara.barua0102@gmail.com</strong></p>
+</div>
+ 
+
+
+<footer class="py-5 text-center text-body-secondary bg-dark" aria-label="Pied de page">
+    <div class="copyright-text py-3 text-white bg-dark text-center"><strong>
+        © 2024 Cultural Couture. Tous droits réservés. 
+        <br>
+        <br>
+       Le design de ce site a été inspiré par <a href="https://getbootstrap.com/" class="link-white">Bootstrap</a>.
+       </strong>
+      </div>
+    
+    
+        <a href="#" class="link-white"><strong>Retour en haut</strong></a> | <!-- Lien vers le haut de la page -->
+        <a href="./vue/vueMentions.legales.php" class="link-white"><strong>Mentions légales</strong></a> | <!-- Lien vers les mentions légales -->
+        <a href="./vue/vueCGU.php" class="link-white"><strong>CGU</strong></a> | <!-- Lien vers les conditions générales d'utilisation -->
+        <a href="./vue/vuePolitique_de_confidentialite.php" class="link-white"><strong>Politique de confidentialité</strong></a> <!-- Lien vers la politique de confidentialité -->
+    </p>
+</footer>
+
+<script src="assets/dist/js/bootstrap.bundle.min.js"></script>
+  
 
 </body>
 </html>
