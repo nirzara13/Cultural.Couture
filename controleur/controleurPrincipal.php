@@ -27,7 +27,7 @@ function controleurPrincipal($action){
             // Rediriger vers une autre page ou afficher un message d'erreur
             return "vueErreur.php";
         }
-    };*/
+    };*/ C'est une fonctionnalité que j'ai voulu mettre afin de permettre uniquement aux administrateurs de voir la charte informatique, mais je n'ai pas réussi.
 
     // Vérifier si l'action demandée existe dans le tableau et renvoyer la vue correspondante
     if (array_key_exists ( $action , $lesActions )){
