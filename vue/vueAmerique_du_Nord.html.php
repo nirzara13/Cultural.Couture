@@ -266,7 +266,7 @@
 <main class="container">
   <div class="row">
     <div class="col-lg-6 px-0">
-      <!-- Utiliser la classe Bootstrap pour afficher l'image à 100% de la largeur -->
+     
       <img src="./photos/broderie_mexique.jpg" class="img-fluid rounded-start w-100" alt="Featured image">
     </div>
     <div class="col-lg-6 px-0">
@@ -301,7 +301,7 @@
     <a href="#" class="button expanded custom-button">Ajouter aux favoris</a>
     </div>
     <div class="column">
-      <img class="thumbnail" src="photos/Tenues_cow-girl_Etats_Unis.webp">
+      <img class="thumbnail" src="photos/Tenues_cow-girl_Etats_Unis.webp" alt="Une femme portant une tenue de cow girl">
       <h5><strong>Tenue de Cow-Girl</strong></h5>
      
   
@@ -309,14 +309,14 @@
    
   </div>
     <div class="column">
-      <img class="thumbnail" src="photos/Cow_Boy_Etats_Unis.jpg">
+      <img class="thumbnail" src="photos/Cow_Boy_Etats_Unis.jpg" alt="Un homme portant un chapeau de cow boy, une chemise et un jean">
       <h5><strong>Tenue de Cow-Boy</strong></h5>
      
     <a href="#" class="button expanded custom-button">Ajouter aux favoris</a>
 
     </div>
     <div class="column">
-      <img class="thumbnail" src="photos/Jeans_Etats_Unis.webp">
+      <img class="thumbnail" src="photos/Jeans_Etats_Unis.webp" alt="Jeans bleu de la marque Levis">
       <h5><strong>Jean Levis</strong></h5>
      
     <a href="#" class="button expanded custom-button">Ajouter aux favoris</a>
@@ -338,7 +338,7 @@
 
   <div class="row small-up-2 large-up-4">
     <div class="column">
-      <img class="thumbnail" src="photos/Robe_quebecois_Canada.jpg">
+      <img class="thumbnail" src="photos/Robe_quebecois_Canada.jpg" alt="Une femme portant une robe québécoise">
       <h5><strong>Robe Québécoise</strong></h5>
     <a href="#" class="button expanded custom-button">Ajouter aux favoris</a>
 
@@ -358,7 +358,7 @@
 
 
     <div class="column">
-      <img class="thumbnail" src="photos/Inuit_Femme_Canada.jpg">
+      <img class="thumbnail" src="photos/Inuit_Femme_Canada.jpg" alt="Une femme avec un pull multicouleur et des motifs dessus">
       <h5><strong>Pull d'une habitante Inuit</strong></h5>
      
     <a href="#" class="button expanded custom-button">Ajouter aux favoris</a>
