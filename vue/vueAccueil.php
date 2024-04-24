@@ -334,7 +334,7 @@
     <a class="btn btn-primary btn-lg mt-3" href="./?action=ConnexionAsie" aria-label="Découvrir">Découvrir</a>
   </div>
   <div class="col-md-5">
-  <img src="photos/Asie_Accueil.jpeg" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" alt="Description de votre image">
+  <img src="photos/Asie_accueil.jpeg" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" alt="Description de votre image">
   </div>
 </div>
 
