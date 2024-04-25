@@ -14,4 +14,4 @@ Sur le controleurPrincipal.php , j'ai voulu mettre une fonctionnalité qui perme
 
 Sur le schèma du diagramme de cas, , il y a le bonhommme  avec l'administrateur et ses droits, mais tous les fonctionnalités ne marchent pas.
 
-Dans mon github , il y a des fichiers bd_accessoire.inc.php, bd_tenue.inc.php, bd.admi.inc.php
+Dans mon github , il y a des fichiers bd_accessoire.inc.php, bd_tenue.inc.php, bd.administrateur.inc.php
