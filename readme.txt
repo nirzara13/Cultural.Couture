@@ -20,4 +20,6 @@ Dans les modeles et les controleurs, il y a aura une vueErreur.php, mais cette v
 
 Mon schèma MCD ne correspond pas beaucoup à mon "bdd.Principal.sql." J'ai mis une table "Favoris" car dans les vues de mes tenues et accessoires, j'ai mis des boutons "Ajouter aux favoris" pour permettre aux utilisateurs de mettre en favoris les tenues et les accessoires qu'ils aiment bien. Ensuite , il y a le bouton "Mes favoris" en haut à droite de la page, il mène vers aucune page car j'ai pas pu mettre la fonctionnalité où un utilisateur peut voir la liste des ses favoris.
 
-Et pour finir, la barre de recherche ne fonctionne pas non plus car je n'ai pas réussi.
+Puis pour finir, la barre de recherche ne fonctionne pas non plus car je n'ai pas réussi.
+
+Et pour finir, N'OUVREZ PAS le dossier "photos" , il y a au moins 200 photos.
