@@ -10,4 +10,8 @@ Tout le monde peut accéder et voir la page d'accueil, mais si un utilisateur te
 Il devra cliquer sur le bouton "Découvrir" et se connecter pour voir les contenues principaux.  
 C'est une fonctionnalité que j'ai mis pour que seules les utilisateurs inscrits et connectés puissent accéder aux contenues.
 
-Sur le fichier bd.utilisateur.php
+Sur le controleurPrincipal.php , j'ai voulu mettre une fonctionnalité qui permettrai uniquement aux administrateurs de voir la charte informatique, ce code est en commentaire car ça ne marche pas.
+
+Sur le schèma du diagramme de cas, , il y a le bonhommme  avec l'administrateur et ses droits, mais tous les fonctionnalités ne marchent pas.
+
+Dans mon github , il y a des fichiers bd_accessoire.inc.php, bd_tenue.inc.php, bd.admi.inc.php
