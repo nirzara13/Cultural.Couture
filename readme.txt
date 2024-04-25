@@ -14,4 +14,11 @@ Sur le controleurPrincipal.php , j'ai voulu mettre une fonctionnalité qui perme
 
 Sur le schèma du diagramme de cas, , il y a le bonhommme  avec l'administrateur et ses droits, mais tous les fonctionnalités ne marchent pas.
 
-Dans mon github , il y a des fichiers bd_accessoire.inc.php, bd_tenue.inc.php, bd.administrateur.inc.php
+Dans mon github , il y a des fichiers bd_accessoire.inc.php, bd_tenue.inc.php, bd.administrateur.inc.php, rechercher.php, favoris.php dans le controleur et favori.php dans le modele qui ne servent pas rien pour le moment. J'ai gardé ces fichiers pour mettre des fonctionnalités qui ne marchent pas, mais j'essayerai de les développer à l'avenir.
+
+Dans les modeles et les controleurs, il y a aura une vueErreur.php, mais cette vue ne sert pas car j'ai mis des messages d'erreurs et il n'y aura rien à modifier dans le modele et le controleur pour cela.
+
+
+Mon schèma MCD ne correspond pas beaucoup à mon "bdd.Principal.sql." J'ai mis une table "Favoris" car dans les vues de mes tenues et accessoires, j'ai mis des boutons "Ajouter aux favoris" pour permettre aux utilisateurs de mettre en favoris les tenues et les accessoires qu'ils aiment bien. Ensuite , il y a le bouton "Mes favoris" en haut à droite de la page, il mène vers aucune page car j'ai pas pu mettre la fonctionnalité où un utilisateur peut voir la liste des ses favoris.
+
+Et pour finir , la barre de recherche ne fonctionne pas non plus car je n'ai pas réussi.
