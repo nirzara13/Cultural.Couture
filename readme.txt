@@ -1,4 +1,4 @@
-#contexte projet Cultural Couture
+# Projet Cultural Couture
 Il y deux fichiers de base de données pour mon github mais c'est le bdd.Principal.sql qu'il faut utiliser pour le site.
 
 Et le fichier MCD.bd.sql contient les tables généré sur Loooping, mais je n'utilise pas ces tables.
